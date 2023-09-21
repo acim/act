@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"go.ectobit.com/act"
+	"go.acim.net/act"
 )
 
 func TestParse_errors(t *testing.T) {

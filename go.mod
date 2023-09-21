@@ -1,5 +1,5 @@
-module go.ectobit.com/act
+module go.acim.net/act
 
 go 1.17
 
-require github.com/iancoleman/strcase v0.2.0
+require github.com/iancoleman/strcase v0.3.0

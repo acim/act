@@ -6,8 +6,8 @@ environment variables' names.
 
 [![Build Status](https://github.com/ectobit/act/workflows/build/badge.svg)](https://github.com/ectobit/act/actions)
 ![Go Coverage](https://img.shields.io/badge/coverage-97.5%25-brightgreen?style=flat&logo=go)
-[![Go Reference](https://pkg.go.dev/badge/go.ectobit.com/act.svg)](https://pkg.go.dev/go.ectobit.com/act)
-[![Go Report](https://goreportcard.com/badge/go.ectobit.com/act)](https://goreportcard.com/report/go.ectobit.com/act)
+[![Go Reference](https://pkg.go.dev/badge/go.acim.net/act.svg)](https://pkg.go.dev/go.acim.net/act)
+[![Go Report](https://goreportcard.com/badge/go.acim.net/act)](https://goreportcard.com/report/go.acim.net/act)
 
 This package in intended to be used to parse command line arguments and environment variables into an arbitrary config struct.
 This struct may contain multiple nested structs, they all will be processed recursively. Names of the flags and environment
@@ -54,7 +54,7 @@ import (
 	"log"
 	"os"
 
-	"go.ectobit.com/act"
+	"go.acim.net/act"
 )
 
 func main() {

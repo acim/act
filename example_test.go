@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"go.ectobit.com/act"
+	"go.acim.net/act"
 )
 
 func Example_basic() {

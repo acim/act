@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"go.ectobit.com/act"
+	"go.acim.net/act"
 )
 
 var (
