@@ -1,12 +1,13 @@
 {
-    "cSpell.words": [
-        "ectobit",
-        "microservices",
-        "nolint",
-        "postgres",
-        "struct",
-        "structs",
-        "subcommand",
-        "subcommands"
-    ]
+  "cSpell.words": [
+    "acim",
+    "ectobit",
+    "microservices",
+    "nolint",
+    "postgres",
+    "struct",
+    "structs",
+    "subcommand",
+    "subcommands"
+  ]
 }
